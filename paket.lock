@@ -1,0 +1,4 @@
+NUGET
+  remote: https://nuget.org/api/v2
+  specs:
+    Xero.API.SDK (2.0.4.0)

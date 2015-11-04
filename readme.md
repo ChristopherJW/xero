@@ -20,7 +20,7 @@ C:\Program Files (x86)\Microsoft SDKs\F#\3.1\Framework\v4.0
 
 ###Follow the Instructions here to setup a private app
 
-http://developer.xero.com/documentation/getting-started/private-applications/
+http://developer.xero.com/documentation/getting-started/private-applications
 
 ```Note: Password used to create private key```
 
